@@ -1,0 +1,9 @@
+
+[project]
+name = "bootstrapper"
+version = "1.0.0"
+description = "Production python bootstrapping template built by Ryan Barczak"
+
+dependencies = [
+    
+]
