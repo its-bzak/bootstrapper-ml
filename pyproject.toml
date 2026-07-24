@@ -1,9 +1,21 @@
+# TOML configuration file for the bootstrapper
 
 [project]
-name = "bootstrapper"
-version = "1.0.0"
-description = "Production python bootstrapping template built by Ryan Barczak"
+
+# Change the following values to match your project details
+
+name = "My Project"
+version = "0.1.0"
+description = "Project Description"
+
+# The following line specifies the minimum Python version required for your project.
+requires-python = ">=3.12"
 
 dependencies = [
-    
+
+    # Base Bootstrap Dependencies
+    "pytest",
+    "ruff",
+
+    # Add any project-specific dependencies here
 ]
