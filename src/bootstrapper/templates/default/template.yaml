@@ -1,0 +1,7 @@
+
+name: default
+description: Basic Python project template
+
+variables:
+  - project_name
+  - description

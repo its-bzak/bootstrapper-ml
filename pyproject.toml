@@ -4,9 +4,9 @@
 
 # Change the following values to match your project details
 
-name = "My Project"
+name = "bootstrapper"
 version = "0.1.0"
-description = "Project Description"
+description = "Production ready bootstrapper project template for Python 3.12+"
 
 # The following line specifies the minimum Python version required for your project.
 requires-python = ">=3.12"
